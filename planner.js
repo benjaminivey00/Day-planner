@@ -35,7 +35,11 @@ $('#time-9 .textInput').val(localStorage.getItem('time-9'))
 $('#time-10 .textInput').val(localStorage.getItem('time-10'))
 $('#time-11 .textInput').val(localStorage.getItem('time-11'))
 $('#time-12 .textInput').val(localStorage.getItem('time-12'))
-
+$('#time-13 .textInput').val(localStorage.getItem('time-13'))
+$('#time-14 .textInput').val(localStorage.getItem('time-14'))
+$('#time-15 .textInput').val(localStorage.getItem('time-15'))
+$('#time-16 .textInput').val(localStorage.getItem('time-16'))
+$('#time-17 .textInput').val(localStorage.getItem('time-17'))
 updateColor();
 
 });
