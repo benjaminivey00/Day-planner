@@ -8,7 +8,7 @@ $(document).ready(function(){
 
 console.log(localStorage.getItem('time1'))
 
-$ ("#currentDay").text(moment().format('MMMM Do YYYY, h:mm:ss a'));
+$("#currentDay").text(moment().format('MMMM Do YYYY, h:mm:ss a'));
 
 function updateColor(){
 
